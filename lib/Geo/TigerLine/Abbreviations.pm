@@ -1,4 +1,7 @@
 package Geo::TigerLine::Abbreviations;
+BEGIN {
+  $Geo::TigerLine::Abbreviations::VERSION = '0.04';
+}
 use strict;
 use warnings;
 use Cache::FileCache;

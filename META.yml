@@ -15,4 +15,4 @@ name: Geo-TigerLine-Abbreviations
 requires:
   Cache::Cache: 0
   LWP::Simple: 0
-version: 0.03
+version: 0.04

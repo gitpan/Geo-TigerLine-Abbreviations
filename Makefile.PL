@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     'Cache::Cache' => '0',
     'LWP::Simple' => '0'
   },
-  'VERSION' => '0.03',
+  'VERSION' => '0.04',
   'test' => {
     'TESTS' => ''
   }
