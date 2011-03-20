@@ -1,18 +1,13 @@
-NAME
-    Geo::TigerLine::Abbreviations - Tiger/LINE feature abbreviations
 
-SYNOPSIS
-      use Geo::TigerLine::Abbreviations;
-      print $Geo::TigerLine::Abbreviations::Dict{'Av'}[0]{'feature_type'}, "\n";
 
-DESCRIPTION
-    Geo::TigerLine::Abbreviations provides a single hash %Dict whose keys
-    are values from the US Census bureau's set of standard abbreviations.
-    All the values are the possible results of the lookup.
+This archive contains the distribution Geo-TigerLine-Abbreviations,
+version 0.03:
 
-    Each value may have any of the following keys: feature_type,
-    standard_abbreviation, short_abbreviation, and translation.
+  Tiger/LINE feature abbreviations
 
-SEE ALSO
-    <http://www.census.gov/geo/tiger/>
+This software is copyright (c) 2011 by Josh Jore.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
 
